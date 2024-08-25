@@ -61,5 +61,5 @@ while True:
     break
 
   if user_wins == 3:
-    print("GANASTE !! :)")
+    print("GANASTE ! :)")
     break
